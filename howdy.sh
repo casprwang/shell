@@ -1,4 +1,3 @@
-#!/bin/csh
+#!/bin/bash
 
-set howdy="Hello $USER\!"
-echo $howdy
+echo "howdy"
