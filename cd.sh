@@ -1,3 +1,5 @@
-alias proj="cd ~/dev"
+godev() {
+  cd ~/dev
+}
 
-. proj
+godev()
