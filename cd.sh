@@ -1,5 +1,3 @@
-cd $HOME
+alias proj="cd ~/dev"
 
-exec /bin/bash
-
-
+. proj
